@@ -1,0 +1,49 @@
+ADVISOR SOURCE PACK v1 — provenance erratum, observed 2026-10-25
+
+PROVENANCE CORRECTION: The original tested text used the inaccurate label human-curated. These summaries were prepared and checked by the Codex research agent, without independent human review. Only that label is corrected here; source facts/IDs are unchanged. The original test input and hash are preserved in the genuine transcript/frozen evidence. This corrected label is not a new behavioral run.
+
+These are short, research-agent-curated factual summaries of opened official documentation, not copied full pages or product test results. The test freezes this supplied text; it does not claim to freeze the vendors' entire sites. URLs may change later. Only IDs allowed by the current input may support its decision. No source PDF is attached: the PDF specifications in the test are hypothetical requirements.
+
+S01 — ChatGPT upload availability and limits
+URL: https://help.openai.com/en/articles/8555545-uploading-files-and-audio-to-chatgpt
+Location: Availability; Document and image upload limits; Read images in documents.
+Observed: 2026-10-25. Page update label: 2 days ago.
+Summary: Document uploads, including PDF, are available on Free subject to plan/account limits. Maximum document size is 512 MB per file, with a 2-million-token cap for text/document files. Free users have a 3-file-per-day upload allowance; limits may be lower at peak times. Directly attached PDFs can include text and images; saved Project files handle embedded images differently. These limits do not guarantee that a particular document will be processed successfully or that a citation is correct.
+
+S02 — ChatGPT Free base access
+URL: https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq
+Location: Free capabilities / tool limits.
+Observed: 2026-10-25, earlier reference-research verification.
+Summary: Free accounts can use ChatGPT and eligible upload/analysis tools with separate usage limits. This is a consumer browser workflow; no API key is needed for ordinary chat. This source does not guarantee a native clickable passage citation for every uploaded-PDF answer.
+
+S03 — Claude PDF support and limits
+URL: https://support.claude.com/en/articles/8241126-upload-files-to-claude
+Location: File limits; PDF processing.
+Observed: 2026-10-25. Displayed publication date: 2026-07-23.
+Summary: Claude accepts PDFs in chat, up to 500 MB per file and 1,000 PDF pages, with additional content/token constraints. For PDFs up to 100 pages it analyzes text and visuals; for 101–1,000 pages the documented treatment is text only. Project-file limits differ: 30 MB per file. The tutorial's hypothetical 180-page case asks for text only and uses a chat attachment, not a Claude Project upload. Citation correctness remains untested.
+
+S04 — Gemini Notebook Free source limits
+URL: https://support.google.com/gemininotebook/answer/16215270?hl=en
+Location: Understand source types and limitations.
+Observed: 2026-10-25.
+Summary: The current Google help calls this product Gemini Notebook. It accepts PDF files, with up to 200 MB or 500,000 words per source, and lists 50 sources for Free users. Account, age and regional eligibility still apply. These are source-import limits, not measured quality.
+
+S05 — Gemini Notebook source citations
+URL: https://support.google.com/gemininotebook/answer/16179559?hl=en
+Location: Opening explanation of chat and citations.
+Observed: 2026-10-25.
+Summary: Chat can use uploaded source material, with citations that can be selected to navigate to the quoted material. This supports easier source checking; it does not guarantee perfect claims, every possible citation or import success. This page alone does not establish Free eligibility, PDF support or upload-size limits.
+
+S06 — Claude Free access
+URL: https://claude.com/pricing
+Location: Individual / Free; feature comparison.
+Observed: 2026-10-25.
+Summary: Claude offers a $0 Free plan with web chat. Usage limits apply. This source is not a benchmark and does not establish unlimited PDF processing.
+
+S07 — Gemini Notebook access context
+URL: https://support.google.com/gemininotebook/answer/16164461?hl=en
+Location: Availability.
+Observed: 2026-10-25.
+Summary: The browser product is available to eligible users in supported countries/territories, with Google-account/age requirements. This page is not the Free source-limits table.
+
+END OF PACK. This document includes no expected test answers or actual model outputs.

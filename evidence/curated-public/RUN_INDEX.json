@@ -1,0 +1,156 @@
+[
+  {
+    "case": "builder-interview-runtime",
+    "platform": "Codex CLI, ChatGPT-authenticated account; plan not verified",
+    "model_id": "not exposed in captured CLI event stream; not inferred",
+    "chatgpt_free_tested": false,
+    "started_utc": "2026-10-25T12:19:24.082328+00:00",
+    "ended_utc": "2026-10-25T12:19:32.065059+00:00",
+    "input_sha256": "119d41de6e2c589645c176c3cdce9b7860926c737749e8fa1e3756cca8bb633b",
+    "answer_sha256": "5ee6bdd481943c1ca158d16dc6fdf1182abe2aa4ba5aa2bb781b11ad27291000",
+    "pre_run_criteria_sha256": "c3345500c06dafeb1a96e53117e52db17858597b9ddaefd18a3c9ab5242007a5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "reported_token_usage": {
+      "input_tokens": 15690,
+      "cached_input_tokens": 12416,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 92,
+      "reasoning_output_tokens": 0
+    },
+    "execution": "ephemeral read-only model call; supplied text; no Project UI/PDF processing"
+  },
+  {
+    "case": "builder-complete",
+    "platform": "Codex CLI, ChatGPT-authenticated account; plan not verified",
+    "model_id": "not exposed in captured CLI event stream; not inferred",
+    "chatgpt_free_tested": false,
+    "started_utc": "2026-10-25T12:21:00.142036+00:00",
+    "ended_utc": "2026-10-25T12:22:03.954902+00:00",
+    "input_sha256": "7a3f9bfa45c63c5b7a9b9b3fa9d60d875d963c26200e637b5f2ff5c1cf945d17",
+    "answer_sha256": "60d7384f337c4b742b669889173ba40161ec3aca80cf69b470561dbd42789a6a",
+    "pre_run_criteria_sha256": "c3345500c06dafeb1a96e53117e52db17858597b9ddaefd18a3c9ab5242007a5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "reported_token_usage": {
+      "input_tokens": 16197,
+      "cached_input_tokens": 12416,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 1875,
+      "reasoning_output_tokens": 0
+    },
+    "execution": "ephemeral read-only model call; supplied text; no Project UI/PDF processing"
+  },
+  {
+    "case": "advisor-A",
+    "platform": "Codex CLI, ChatGPT-authenticated account; plan not verified",
+    "model_id": "not exposed in captured CLI event stream; not inferred",
+    "chatgpt_free_tested": false,
+    "started_utc": "2026-10-25T12:24:42.267672+00:00",
+    "ended_utc": "2026-10-25T12:25:20.180237+00:00",
+    "input_sha256": "4cb754d10c3cbf77fbca0115fbbb77e590c1aef8eb541b31846fa5e9965afe0a",
+    "answer_sha256": "740404e81bc82b3bfe97498d790a1bc77fec5611fc3651f2016b095aedf6f876",
+    "pre_run_criteria_sha256": "c3345500c06dafeb1a96e53117e52db17858597b9ddaefd18a3c9ab5242007a5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "reported_token_usage": {
+      "input_tokens": 17036,
+      "cached_input_tokens": 12416,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 953,
+      "reasoning_output_tokens": 199
+    },
+    "execution": "ephemeral read-only model call; supplied text; no Project UI/PDF processing"
+  },
+  {
+    "case": "advisor-B",
+    "platform": "Codex CLI, ChatGPT-authenticated account; plan not verified",
+    "model_id": "not exposed in captured CLI event stream; not inferred",
+    "chatgpt_free_tested": false,
+    "started_utc": "2026-10-25T12:26:51.005826+00:00",
+    "ended_utc": "2026-10-25T12:27:16.794616+00:00",
+    "input_sha256": "4856d69fdb38d5be06f4e1d60de297644cdc674c9e0aa187be477e07e455049e",
+    "answer_sha256": "4a852d04d08d01bb5dfe14ff2eabf294a2b33ba29ba8186effa7aab68b270ac8",
+    "pre_run_criteria_sha256": "c3345500c06dafeb1a96e53117e52db17858597b9ddaefd18a3c9ab5242007a5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "reported_token_usage": {
+      "input_tokens": 19239,
+      "cached_input_tokens": 12416,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 858,
+      "reasoning_output_tokens": 0
+    },
+    "execution": "ephemeral read-only model call; supplied text; no Project UI/PDF processing"
+  },
+  {
+    "case": "advisor-C",
+    "platform": "Codex CLI, ChatGPT-authenticated account; plan not verified",
+    "model_id": "not exposed in captured CLI event stream; not inferred",
+    "chatgpt_free_tested": false,
+    "started_utc": "2026-10-25T12:28:31.704004+00:00",
+    "ended_utc": "2026-10-25T12:28:51.881644+00:00",
+    "input_sha256": "79e627c9f347c3be52fee9f6250fef739d32a60664297c73e1c5aa91bb276a8b",
+    "answer_sha256": "87021e79ee26e0db8557cbd99cffcb3130f2d6977c772bb49de502281fc214ce",
+    "pre_run_criteria_sha256": "c3345500c06dafeb1a96e53117e52db17858597b9ddaefd18a3c9ab5242007a5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "reported_token_usage": {
+      "input_tokens": 17937,
+      "cached_input_tokens": 12416,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 717,
+      "reasoning_output_tokens": 0
+    },
+    "execution": "ephemeral read-only model call; supplied text; no Project UI/PDF processing"
+  },
+  {
+    "case": "transfer-builder",
+    "platform": "Codex CLI, ChatGPT-authenticated account; plan not verified",
+    "model_id": "not exposed in captured CLI event stream; not inferred",
+    "chatgpt_free_tested": false,
+    "started_utc": "2026-10-25T12:31:04.476561+00:00",
+    "ended_utc": "2026-10-25T12:32:11.805800+00:00",
+    "input_sha256": "ac7cdc78249382bf4dddb2c446fe233ab77f03687f4445c0332b81d1e6e69111",
+    "answer_sha256": "6160e5611b641acbe734a4ad5f28ce35e026f859bfa3db7c373ea6e5a898fb70",
+    "pre_run_criteria_sha256": "c3345500c06dafeb1a96e53117e52db17858597b9ddaefd18a3c9ab5242007a5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "reported_token_usage": {
+      "input_tokens": 17427,
+      "cached_input_tokens": 12416,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 2235,
+      "reasoning_output_tokens": 162
+    },
+    "execution": "ephemeral read-only model call; supplied text; no Project UI/PDF processing"
+  },
+  {
+    "case": "transfer-run",
+    "platform": "Codex CLI, ChatGPT-authenticated account; plan not verified",
+    "model_id": "not exposed in captured CLI event stream; not inferred",
+    "chatgpt_free_tested": false,
+    "started_utc": "2026-10-25T12:33:17.439028+00:00",
+    "ended_utc": "2026-10-25T12:33:33.129605+00:00",
+    "input_sha256": "ad1d0c1b1ed8f4e83aae8cc122ebb232da4238cba79824c42a695bbdc2973f51",
+    "answer_sha256": "bdd60402bd3850a6e309e122cff606f19138e0e9201767eec693f0f180d1cc40",
+    "pre_run_criteria_sha256": "c3345500c06dafeb1a96e53117e52db17858597b9ddaefd18a3c9ab5242007a5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "reported_token_usage": {
+      "input_tokens": 15850,
+      "cached_input_tokens": 12416,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 691,
+      "reasoning_output_tokens": 0
+    },
+    "execution": "ephemeral read-only model call; supplied text; no Project UI/PDF processing"
+  }
+]

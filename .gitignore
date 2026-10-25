@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*auth*.json
+*cookie*
+*session-token*
+evidence-private/
+evaluator-only/
+node_modules/
+*.log
+.DS_Store

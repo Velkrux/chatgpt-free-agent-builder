@@ -1,0 +1,77 @@
+[
+  {
+    "case": "release-interview",
+    "platform": "Codex CLI with ChatGPT authentication; account plan unverified",
+    "model_id": "not exposed in captured events; not inferred",
+    "chatgpt_free_verified": false,
+    "started_utc": "2026-10-25T14:06:21.675306+00:00",
+    "ended_utc": "2026-10-25T14:06:30.444687+00:00",
+    "input_sha256": "396f4b3815413ead6d61da2c8e699d7bd5b4094ffaa622fcd3f2a810f4023a8d",
+    "answer_sha256": "46047ca2b963745341f492059776408ecd0a51783a5ddea311861b7ac8bd1f15",
+    "pre_run_criteria_sha256": "321aef468bf089879aa9c0c8104cb0c61e447392781807bba65740a802c883c5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "scope": "supplied text, ephemeral call, no ChatGPT UI or live browsing"
+  },
+  {
+    "case": "release-build",
+    "platform": "Codex CLI with ChatGPT authentication; account plan unverified",
+    "model_id": "not exposed in captured events; not inferred",
+    "chatgpt_free_verified": false,
+    "started_utc": "2026-10-25T14:07:24.610225+00:00",
+    "ended_utc": "2026-10-25T14:07:51.847330+00:00",
+    "input_sha256": "11fd1b8844704e9cbc6e2fb9bc09899d7b7df5febcafd5ad4c9b4897625b86ba",
+    "answer_sha256": "2b573b16863ab5f02a4690c8d0cee724cd05e0895ae60f30ea00618044140ae9",
+    "pre_run_criteria_sha256": "321aef468bf089879aa9c0c8104cb0c61e447392781807bba65740a802c883c5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "scope": "supplied text, ephemeral call, no ChatGPT UI or live browsing"
+  },
+  {
+    "case": "release-build-length-fix",
+    "platform": "Codex CLI with ChatGPT authentication; account plan unverified",
+    "model_id": "not exposed in captured events; not inferred",
+    "chatgpt_free_verified": false,
+    "started_utc": "2026-10-25T14:12:29.258982+00:00",
+    "ended_utc": "2026-10-25T14:12:42.026768+00:00",
+    "input_sha256": "04a12e8769342c19e6a2bfdb37125d6b4c496e121245bfe524e9a860e68753e7",
+    "answer_sha256": "881582ee5945d30732bc66a5196277c181e4f84cbd0d6ac97820536dc5459f39",
+    "pre_run_criteria_sha256": "321aef468bf089879aa9c0c8104cb0c61e447392781807bba65740a802c883c5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "scope": "supplied text, ephemeral call, no ChatGPT UI or live browsing"
+  },
+  {
+    "case": "release-normal",
+    "platform": "Codex CLI with ChatGPT authentication; account plan unverified",
+    "model_id": "not exposed in captured events; not inferred",
+    "chatgpt_free_verified": false,
+    "started_utc": "2026-10-25T14:22:48.082251+00:00",
+    "ended_utc": "2026-10-25T14:23:01.985701+00:00",
+    "input_sha256": "049a500c53a099d81557c7ff14d97f9fc58acd2dc4a906555f5c733f905899e5",
+    "answer_sha256": "21d7d92a20ecfd457156835103c2fa0ed0701cbeabbc1eb15cecba05b1770b63",
+    "pre_run_criteria_sha256": "321aef468bf089879aa9c0c8104cb0c61e447392781807bba65740a802c883c5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "scope": "supplied text, ephemeral call, no ChatGPT UI or live browsing"
+  },
+  {
+    "case": "release-hard",
+    "platform": "Codex CLI with ChatGPT authentication; account plan unverified",
+    "model_id": "not exposed in captured events; not inferred",
+    "chatgpt_free_verified": false,
+    "started_utc": "2026-10-25T14:27:53.376652+00:00",
+    "ended_utc": "2026-10-25T14:28:05.653261+00:00",
+    "input_sha256": "735ed9a1ad2cb6c72b1c672be683f0065a2a002cb99a4d3ea75254229fa4e1d5",
+    "answer_sha256": "5d88995ada22c18331e6f11470a907e0b06b1d8b1c73771e669e386e4388adbe",
+    "pre_run_criteria_sha256": "321aef468bf089879aa9c0c8104cb0c61e447392781807bba65740a802c883c5",
+    "event_item_types": {
+      "agent_message": 1
+    },
+    "scope": "supplied text, ephemeral call, no ChatGPT UI or live browsing"
+  }
+]

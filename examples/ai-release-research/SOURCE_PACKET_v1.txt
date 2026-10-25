@@ -1,0 +1,30 @@
+AI RELEASE PACKET v1 — observed and frozen 2026-10-25
+
+Original concise summaries of actual official material, prepared by the Codex research agent. Not live retrieval by the tested assistant. No product action has been executed. Release dates are dates of the named release-note entries, not our observation date. Use the exact named feature, not a broader product category.
+
+R1 — Audio uploads in ChatGPT
+Announcement date: 2026-10-06
+Announcement URL: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+Location: October 6, 2026 / Audio uploads in ChatGPT.
+Capability/eligibility URL: https://help.openai.com/en/articles/8555545-uploading-files-and-audio-to-chatgpt
+Location: Overview / Availability.
+Observed: 2026-10-25.
+Summary: Attached audio files can be used for transcription, summaries and questions. The upload FAQ says audio uploads require a paid subscription/workspace and are not available on Free at this time. This concerns audio-file uploads, not all Voice or dictation features. Accuracy and account/client availability have limitations.
+
+R2 — Native ChatGPT Slides in Space
+Announcement date: 2026-10-16
+URL: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+Location: October 16, 2026 / Create and collaborate on slides in ChatGPT.
+Observed: 2026-10-25.
+Summary: This native presentation workflow supports creation and collaboration in Space. The entry limits the rollout to eligible Pro, Business and Enterprise users with Space access. This does not establish that Free users cannot draft slide text or use a different presentation workflow.
+
+R3 — Locked chats
+Announcement date: 2026-10-20
+Announcement URL: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+Location: October 20, 2026 / Introducing locked chats.
+Capability/eligibility URL: https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt
+Location: Opening rollout note / Overview / Availability.
+Observed: 2026-10-25.
+Summary: Eligible chats can be kept out of ordinary history/search and require a PIN or supported authentication to open. Free is among supported plans, but rollout is gradual, so a particular account may not have it yet. Locking does not change retention or the model-improvement setting and does not create an end-to-end encrypted vault. No security setting was changed in this test.
+
+END OF SOURCE PACKET. No invented launches, performance statistics, expected test answers or actual product-use results.
