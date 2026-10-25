@@ -6,7 +6,9 @@ Turn a task you repeat into reusable instructions, a clear first input and a use
 
 **Evidence: real Codex responses to supplied text. ChatGPT Free execution and the Free Project interface are NOT VERIFIED.** The ChatGPT setup is documentation-based. The tested model did not browse the web or operate ChatGPT.
 
-**Article:** publication pending. The real X Article link will be added here only after it is published.
+**Read the full step-by-step X Article**
+
+[How to Build Your Own AI Assistant in ChatGPT (No Code, No API Keys)](https://x.com/Velkrux/status/2114451848924971313)
 
 ## Five-minute quickstart
 
